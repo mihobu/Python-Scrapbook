@@ -1,0 +1,12 @@
+#! /bin/bash
+
+for word in `cat english100.txt`
+do
+  #echo ${word}
+  for key in {1..25}
+  do
+    ./cipher-cl.py ${word} ${key}
+  done
+done
+
+
