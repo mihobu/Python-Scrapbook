@@ -1,4 +1,3 @@
 # Python-Scapbook
-A collection of Python examples, how-tos, and quick references. Some content has appeared (or will appear) on my [blog](http://medium.com/contemplating-data/).
+A collection of Python examples, how-tos, and quick references, in the form of Jupyter notebooks.
 
-**by Michael Burkhardt (burkhardt.5@osu.edu)**
